@@ -1,0 +1,199 @@
+{
+    "Header":[
+    
+            {
+                "title": "Home",
+                "path": "/"
+              },
+              {
+                "title": "Shop",
+                "path": "/Shop_page"
+              },
+              {
+                "title": "Featured",
+                "path": "/Featured"
+              },
+              {
+                "title": "Recommended",
+                "path": "/Recommended"
+              }
+            ],
+    "Featured":[
+              {
+                "id":"1",
+                "image":"./../images/Featured1.png",
+                "title":"Burnikk",
+                "subtitle":"Sexbomb"
+            },
+            {
+                "id":"2",
+                "image":"./../images/Featured2.png",
+                "title":"Kibal Batal",
+                "subtitle":"Kibal Black"
+            },
+            {
+                "id":"3",
+                "image":"./../images/Featured3.png",
+                "title":"Very Nice",
+                "subtitle":"Salt maalat"
+            },
+            {
+                "id":"4",
+                "image":"./../images/Featured4.png",
+                "title":" Buldit",
+                "subtitle":"Salt Maalat"
+            },
+            {
+                "id":"5",
+                "image":"./../images/Featured5.png",
+                "title":"Balakubak",
+                "subtitle":"Betsin Maalat"
+            },
+            {
+                "id":"6",
+                "image":"./../images/Featured6.png",
+                "title":"Tiktilaok Manok",
+                "subtitle":"Sexbombani"
+            }
+            ],
+    "Recommended":[
+      {
+        "id":"1",
+        "image":"./../images/Featured1.png",
+        "title":"Burnikk",
+        "subtitle":"Sexbomb"
+    },
+    {
+      "id":"2",
+        "image":"./../images/Featured2.png",
+        "title":"Kibal Batal",
+        "subtitle":"Kibal Black"
+    },
+    {
+        "id":"3",
+        "image":"./../images/Featured3.png",
+        "title":"Very Nice",
+        "subtitle":"Salt maalat"
+    },
+    {
+        "id":"4",
+        "image":"./../images/Recommended4.png",
+        "title":"Kulangot",
+        "subtitle":"Salt"
+    },
+    {
+        "id":"5",
+        "image":"./../images/Recommended5.png",
+        "title":"Sipon Malapot",
+        "subtitle":"salt"
+    },
+    {
+        "id":"6",
+        "image":"./../images/Recommended6.png",
+        "title":"Pitaklan",
+        "subtitle":"Black Kibal"
+    }
+    ],
+    "Shop":[
+      {
+        "id":"1",
+        "image":"./../images/Recommended4.png",
+        "title":"Kulangot",
+        "subtitle":"Salt",
+        "price":"$67.00",
+        "color":"brown"
+        
+    },
+    {
+        "id":"2",
+        "image":"./../images/Featured6.png",
+        "title":"Tiktilaok Manok",
+        "subtitle":"Sexbombani",
+        "price":"$78.00",
+        "color":"blue"
+    },
+    {
+        "id":"3",
+        "image":"./../images/Featured3.png",
+        "title":"Very Nice",
+        "subtitle":"Salt maalat",
+        "price":"$79.00",
+        "color":"brown"
+    },
+    {
+        "id":"4",
+        "image":"./../images/shop4.png",
+        "title":"Quake Overload",
+        "subtitle":"Yezyow",
+        "price":"$80.00",
+        "color":"red"
+    },
+    {
+        "id":"5",
+        "image":"./../images/shop5.png",
+        "title":"Kutu",
+        "subtitle":"Sexbomb",
+        "price":"$129.00",
+        "color":"red"
+    },
+    {
+        "id":"6",
+        "image":"./../images/shop6.png",
+        "title":"Tuluk",
+        "subtitle":"Black Kibal", 
+        "price":"$142.00",
+        "color":"red"
+    },
+    {
+        "id":"7",
+        "image":"./../images/Featured5.png",
+        "title":"Balakubak",
+        "subtitle":"Betsin Maalat",
+        "price":"$170.00",
+        "color":"yellow"
+    },
+    {
+        "id":"8",
+        "image":"./../images/Recommended6.png",
+        "title":"Pitaklan",
+        "subtitle":"Black Kibal",
+        "price":"$174.00",
+        "color":"yellow"
+    },
+    {
+        "id":"9",
+        "image":"./../images/Featured1.png",
+        "title":"Burnikk",
+        "subtitle":"Sexbomb",
+        "price":"$240.00",
+        "color":"red"
+    },
+    {
+        "id":"10",
+        "image":"./../images/Recommended5.png",
+        "title":"Sipon Malapot",
+        "subtitle":"salt", 
+        "price":"$250.00",
+        "color":"red"
+    },
+    {
+        "id":"11",
+        "image":"./../images/Featured4.png",
+        "title":" Buldit",
+        "subtitle":"Salt Maalat",
+        "price":"$250.00",
+        "color":"brown"
+    },
+   
+    {
+        "id":"12",
+        "image":"./../images/Featured2.png",
+        "title":"Kibal Batal",
+        "subtitle":"Kibal Black",
+        "price":"$674.00",
+        "color":"blue"
+    }   
+    ]
+        }
+        
+    
